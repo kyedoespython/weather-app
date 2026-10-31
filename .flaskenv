@@ -1,3 +1,5 @@
 FLASK_DEBUG=1
 FLASK_APP=app
-FLASK_RUN_PORT=8000   
+
+# run on local host -> port 8080
+FLASK_RUN_HOST=127.0.0.1

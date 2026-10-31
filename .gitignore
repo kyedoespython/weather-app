@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Flask instance folder (local config, logs, etc.)
+instance/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Sensitive environment files
+.env
+.env.local
+.env.*.local
+.flaskenv   
