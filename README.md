@@ -7,5 +7,5 @@ A weather app built with python
 <h3>The contributors of this project</h3>
 <ol>
   <li>kyedoespython</li>
-  <li>Hasheem</li>
+  <li>Hasham-Hameed</li>
 </ol>
