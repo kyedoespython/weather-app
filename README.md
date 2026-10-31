@@ -1,7 +1,8 @@
 <h1 align="center">Weather4You</h1>
+<br>
 
-<h2 align="center">Features</h2>
-
+<h3 align="center">Features</h3>
+<br>
 <ul align="center">
   <p>Search weather by city name</p>
   <p>Current temperature, humidity, wind speed, and conditions</p>
