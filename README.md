@@ -9,7 +9,11 @@
   <p>Simple and easy to use</p>
 </ul>
 
+
 <h2 align="center">Some more information on the project</h2>
+
+<br>
+
 <h3 align="center">The weather app is an app made to serve one purpose: Provide data on weather conditions all around the world!</h3>
 
 <h3 align="center">The contributors of this project</h3>
@@ -17,7 +21,7 @@
   <p align="center">kyedoespython</p>
   <p align="center">Hasham-Hameed</p>
 </ul>
-
+<br>
 
 <h3 align="center">Copy right disclaimer!</h3>
 <p align="center">
