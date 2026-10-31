@@ -3,10 +3,10 @@
 <h2 align="center">Features</h2>
 
 <ul align="center">
-  <li>Search weather by city name</li>
-  <li>Current temperature, humidity, wind speed, and conditions</li>
-  <li>Works for locations worldwide</li>
-  <li>Simple and easy to use</li>
+  <p>Search weather by city name</p>
+  <p>Current temperature, humidity, wind speed, and conditions</p>
+  <p>Works for locations worldwide</p>
+  <p>Simple and easy to use</p>
 </ul>
 
 <h2 align="center">Some more information on the project</h2>
@@ -14,8 +14,8 @@
 
 <h3 align="center">The contributors of this project</h3>
 <ul align="center">
-  <li align="center">kyedoespython</li>
-  <li align="center">Hasham-Hameed</li>
+  <p align="center">kyedoespython</p>
+  <p align="center">Hasham-Hameed</p>
 </ul>
 
 
